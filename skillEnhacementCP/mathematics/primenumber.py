@@ -42,3 +42,5 @@ def isPrime(num):
 
 print(isPrime(num))  
 
+
+
