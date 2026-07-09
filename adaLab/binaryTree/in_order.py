@@ -25,8 +25,7 @@ class Node:
                 curr = curr.left
 
             curr = stack.pop()
-            print(curr.data, end=" ")
-
+            print(curr.data, end=" ")            
             curr = curr.right
             
 
